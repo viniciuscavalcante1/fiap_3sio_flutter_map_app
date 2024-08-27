@@ -1,0 +1,1 @@
+ C:\\Users\\Pichau\\Documents\\FIAP\\3SIOA\\Fase\ 5\\fiap-3sio-fase5\\flutter_map\\fiap_3sio_flutter_map\\.dart_tool\\flutter_build\\31fe048eb5f7d88f469c96ccf2c38a24\\native_assets.yaml: 
